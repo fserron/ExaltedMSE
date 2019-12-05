@@ -10,6 +10,7 @@ MSE Templates for Exalted
 ## Finding the cards already done
 You can find all the charm cards already done in this drive:
 https://drive.google.com/drive/folders/1MjcT9bNgLBYrqZuPW3Rqxxhe0EuGfPgs
+
 For an in-depth chart of the project status, you can check:
 https://docs.google.com/spreadsheets/d/1Ak7IfSfCWf-jP_ckXTwVqqdkidPdp6Zd903uOPDeCuU
 
