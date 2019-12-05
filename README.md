@@ -2,7 +2,7 @@
 MSE Templates for Exalted
 
 ## How to use
-1) You need to download Magig Set Editor (MSE), available here: http://magicseteditor.boards.net/page/downloads
+1) You need to download Magic Set Editor (MSE), available here: http://magicseteditor.boards.net/page/downloads
 2) Download the contents of this repository (You can download it as Zip if you are not used to git).
 3) Place the downloaded contents inside the "/data" folder where you installed MSE.
 4) Done! Now you can create new sets with these templates, selecting Exalted first, and then the template you want.
