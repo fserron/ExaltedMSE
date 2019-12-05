@@ -1,0 +1,12 @@
+# The watermark choices
+# Included by a game file
+
+choice:
+	name: none
+	line below: true
+#choice:
+#	name: exalt type
+#	choice: solar
+choice:
+	name: set symbol
+
